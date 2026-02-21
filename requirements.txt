@@ -1,0 +1,38 @@
+# Core Data Science
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
+scipy
+statsmodels
+plotly
+
+# Deep Learning
+torch
+torchvision
+tensorflow
+
+# Generative AI
+transformers
+openai
+langchain
+sentence-transformers
+accelerate
+
+# SQL Utilities
+sqlalchemy
+sqlite-utils
+ipython-sql
+mysql-connector-python
+pymysql
+
+# Development & App Utilities
+jupyter
+notebook
+ipykernel
+python-dotenv
+tqdm
+streamlit
+fastapi
+uvicorn
