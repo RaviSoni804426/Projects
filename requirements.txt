@@ -26,6 +26,7 @@ sqlite-utils
 ipython-sql
 mysql-connector-python
 pymysql
+duckdb
 
 # Development & App Utilities
 jupyter
