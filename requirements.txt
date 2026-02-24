@@ -37,3 +37,6 @@ tqdm
 streamlit
 fastapi
 uvicorn
+yfinance
+plotly
+
